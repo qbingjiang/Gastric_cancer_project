@@ -1,0 +1,1 @@
+The aim of this project is to automatically segment gastric cancer. 
